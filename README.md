@@ -183,14 +183,19 @@ I will enable more commands shortly. iOS project requires Mac OSX and Node 4.1.1
 ## Sprint Retrospective
 First Retro Nov 16
 
-. Good/Continue doing:
+* Good/Continue doing:
    * `Impressive lineup of tools`
    * `Great documentation of all the various procesess and tools`
    * `Ninja Review is awesome: should use it more`
-. Start doing:
+
+* Start doing:
    * `Focus on minimum viable`
    * `More mob/pair sessions`
    * `Schedule pair/mob sessions on Calendar so people can join`
    * `More & consistant commitment from team members`
-. Stop doing:
+
+* Stop doing:
    * `Long term goals/experimentation`
+
+
+   
